@@ -1,4 +1,4 @@
-package me.michael.euler;
+package me.michael.euler.problem006;
 
 public class Problem6 {
 	

@@ -1,8 +1,8 @@
-package me.michael.euler;
+package me.michael.euler.problem017;
 
 import java.util.Arrays;
 
-public class Project17 {
+public class Problem17 {
 
 	public static String[] ones = {"one","two","three","four","five","six","seven","eight","nine","ten","eleven","twelve",
 			"thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen"};

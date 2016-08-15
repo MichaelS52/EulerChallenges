@@ -1,4 +1,4 @@
-package me.michael.euler;
+package me.michael.euler.problem007;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package me.michael.euler;
+package me.michael.euler.problem008;
 
 import java.io.BufferedReader;
 import java.io.File;
